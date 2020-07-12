@@ -8,4 +8,4 @@
 
 - I maintain reading notes of non-fiction books I read [Books Blog](https://alamgirqazi.github.io/blog/)
 
-- Tools/technologies I'm familiar with: Angular, Node.js, MongoDB, Python, React.js, Nginx, Serverless Functions, Amazon EC2, Amazon Elastic Beanstalk, Postgresql, Docker, Kubernetes, AWS, Google Cloud.
+- Tools/technologies I'm familiar with: Angular, Node.js, MongoDB, Python, React.js, Nginx, Redis, Serverless Functions, Amazon EC2, Amazon Elastic Beanstalk, Postgresql, Docker, Kubernetes, AWS, Google Cloud.
