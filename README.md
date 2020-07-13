@@ -4,7 +4,7 @@
 
 - Currently interested in learning Rust lang and web animations.
 
-- Something I've been working on in my free time [Booky](https://booky.now.sh)
+- Something I've been working on in my free time [Booky.now.sh](https://booky.now.sh)
 
 - Sometimes I write in my blog about tech things [Tech Blog](https://alamgirqazi.github.io/tech-blog/)
 
