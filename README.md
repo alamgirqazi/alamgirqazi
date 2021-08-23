@@ -20,17 +20,21 @@ Angular, React.js
 
  Node.js, Python, C, DPI, Serverless Functions, DPDK.
 
+#### Mobile:
+
+Ionic
+
 #### Databases: 
 
-MongoDB, Elasticsearch (usage + cluster deployment), Redis, Postgresql
+MongoDB, Elasticsearch (usage + cluster deployment), Clickhouse, Redis, Postgresql
 
-#### DevOps / CLoud: 
+#### DevOps / Cloud: 
 
 Nginx, Docker, Kubernetes, Jenkins, Amazon EC2, Amazon Elastic Beanstalk, AWS Route 53, AWS S3, AWS CodePipeLine, Google Kubernetes Engine (GKE), Google Object Store, Google Cloud Build.
 
 #### On-Premise:
 
-KVM/Qemu, Vmware ESXi
+KVM/Qemu, Vmware vSphere
 
 #### Cloud: 
 
