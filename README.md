@@ -2,7 +2,7 @@
 
 - I love reading non-fiction and learning new technologies.
 
-- Currently working on Go, Openstack, Kafka, Clickhouse and SDN/NFV.
+- Currently working on Go, Kubernetes, Openstack, Kafka, Clickhouse and SDN/NFV.
 
 - Something I've been working on in my free time [Booky.now.sh](https://booky.now.sh)
 
