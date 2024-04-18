@@ -26,7 +26,7 @@ Ionic
 
 #### Databases: 
 
-MongoDB, Clickhouse, Elasticsearch, , Redis, Postgresql
+MongoDB, Clickhouse, Elasticsearch , Redis, Postgresql
 
 #### DevOps / Cloud: 
 
