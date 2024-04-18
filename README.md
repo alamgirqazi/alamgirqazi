@@ -2,7 +2,9 @@
 
 - I love reading non-fiction and learning new technologies.
 
-- Currently focusing on Kubernetes, Containers Networking and SDN/NFV.
+- Currently AI Research @ Uni of Galway.
+
+- Previously Senior Engineer (DevOps) @ DigitalOcean. 
 
 - Sometimes I write in my blog about tech things [Tech Blog](https://alamgirqazi.github.io/tech-blog/)
 
