@@ -18,7 +18,7 @@ Angular, React.js
 
 #### Backend (Language/Systems):
 
- Node.js, Python, C, DPI, Serverless Functions, DPDK.
+ Node.js, Python.
 
 #### Mobile:
 
@@ -26,11 +26,11 @@ Ionic
 
 #### Databases: 
 
-MongoDB, Elasticsearch (usage + cluster deployment), Clickhouse, Redis, Postgresql
+MongoDB, Clickhouse, Elasticsearch, , Redis, Postgresql
 
 #### DevOps / Cloud: 
 
-Nginx, Docker, Kubernetes, Jenkins, Amazon EC2, Amazon Elastic Beanstalk, AWS Route 53, AWS S3, AWS CodePipeLine, Google Kubernetes Engine (GKE), Google Object Store, Google Cloud Build.
+Nginx, Docker, Kubernetes, Jenkins, CI / CD
 
 #### On-Premise:
 
