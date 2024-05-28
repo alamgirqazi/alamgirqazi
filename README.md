@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- I love reading non-fiction and learning new technologies.
-
 - Currently AI Research @ Uni of Galway.
 
 - Previously Senior Engineer (DevOps) @ DigitalOcean. 
@@ -20,22 +18,11 @@ Angular, React.js
 
  Node.js, Python.
 
-#### Mobile:
-
-Ionic
-
 #### Databases: 
 
 MongoDB, Clickhouse, Elasticsearch , Redis, Postgresql
 
 #### DevOps / Cloud: 
 
-Nginx, Docker, Kubernetes, Jenkins, CI / CD
+Nginx, Docker, Kubernetes, Jenkins, CI / CD, AWS Cloud, Google Cloud.
 
-#### On-Premise:
-
-KVM/Qemu, Vmware vSphere
-
-#### Cloud: 
-
-AWS Cloud, Google Cloud.
